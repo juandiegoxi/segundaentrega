@@ -11,4 +11,4 @@ Comandos:
 -mostrarcurso: [nombre del curso(n)].
 -mostrarcursodisponible: [nombre del curso(n)].
 -actualizar: [id del curso(i)].
-eliminarInscritos: [id del estudiante(i), nombre del curso(c)].
+-eliminarInscritos: [id del estudiante(i), nombre del curso(c)].
